@@ -1,15 +1,4 @@
 
-## 📋 Table of Contents
-
-1. [Introduction](#-introduction)
-2. [Tech Stack](#-tech-stack)
-3. [Features](#-features)
-4. [Quick Start](#-quick-start)
-5. [Screenshots](#-screenshots)
-6. [Deployment](#-deployment)
-
----
-
 ## 🚀 Introduction
 
 A modern **Job Board App** using **Next.js**, **Prisma**, **PostgreSQL**, and **TailwindCSS**.
@@ -46,17 +35,5 @@ A modern **Job Board App** using **Next.js**, **Prisma**, **PostgreSQL**, and **
 
 * 🔐 **Authentication & Authorization**
   Users must be signed in to post jobs or apply for them.
-
----
-
-## 👌 Quick Start
-
-### Prerequisites
-
-* [Node.js](https://nodejs.org/)
-* [PostgreSQL Database](https://www.postgresql.org/)
-* [Prisma CLI](https://www.prisma.io/docs/getting-started)
-* [Next.js](https://nextjs.org/)
-
 
 ---
